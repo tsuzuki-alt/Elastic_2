@@ -1,0 +1,5 @@
+bert-serving-client==1.10.0
+elasticsearch==7.0.4
+Flask==1.1.1
+sentencepiece==0.1.90
+gensim
